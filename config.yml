@@ -43,9 +43,9 @@ content:
         - name: github
           description: github。
           url: https://github.com/
-        - name: Behance
-          description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-          url: https://behance.net/
+        - name: baidu
+          description: 百度。
+          url: https://www.baidu.com
         - name: UI中国
           description: 图形交互与界面设计交流、作品展示、学习平台。
           url: http://www.ui.cn/
