@@ -1,5 +1,5 @@
 # title of website
-title: daohang
+title: qss导航
 
 # description of website
 description: shrinksky's navigation site
@@ -14,7 +14,7 @@ url: https://shrinksky.github.io/daohang/
 github: "https://github.com/shrinksky"
 
 # footer message
-footer: © 2021-2021 @shrinksky
+footer: © 2022-2022 @shrinksky
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -38,6 +38,20 @@ webstack:
 
 content:
   categories:
+    - name: 工作需要
+      sites:
+        - name: 哔哩哔哩
+          description: 哔哩哔哩视频网站（推荐）
+          url: https://www.bilibili.com/
+        - name: gitee
+          description: 管理代码平台，让软件研发更高效
+          url: https://gitee.com/
+        - name: 谷歌
+          description: “Google Chrome是一款由Google公司开发的网页浏览器，该浏览器基于其他开源软件撰写，包括WebKit，目标是提升稳定性、速度和安全性，并创造出简单且有效率的使用者界面。”
+          url: https://www.google.com
+        - name: youtube
+          description: “YouTube是一个视频网站，早期公司位于加利福尼亚州的圣布鲁诺。注册于2005年2月15日，由美国华裔陈士骏等人创立，让用户下载、观看及分享影片或短片。”
+          url: https://www.youtube.com/
     - name: 常用推荐
       sites:
         - name: github
