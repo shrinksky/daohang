@@ -8,7 +8,7 @@ description: shrinksky's navigation site
 favicon: "https://github.com/shrinksky.png?size=40"
 
 # your website url
-url: https://shrinksky.github.io/
+url: https://shrinksky.github.io/daohang/
 
 # github profile url
 github: "https://github.com/shrinksky"
@@ -47,11 +47,23 @@ content:
           description: 管理代码平台，让软件研发更高效
           url: https://gitee.com/
         - name: 谷歌
-          description: “Google Chrome是一款由Google公司开发的网页浏览器，该浏览器基于其他开源软件撰写，包括WebKit，目标是提升稳定性、速度和安全性，并创造出简单且有效率的使用者界面。”
+          description: Google Chrome是一款由Google公司开发的网页浏览器，该浏览器基于其他开源软件撰写，包括WebKit，目标是提升稳定性、速度和安全性，并创造出简单且有效率的使用者界面。
           url: https://www.google.com
         - name: youtube
-          description: “YouTube是一个视频网站，早期公司位于加利福尼亚州的圣布鲁诺。注册于2005年2月15日，由美国华裔陈士骏等人创立，让用户下载、观看及分享影片或短片。”
+          description: YouTube是一个视频网站，早期公司位于加利福尼亚州的圣布鲁诺。注册于2005年2月15日，由美国华裔陈士骏等人创立，让用户下载、观看及分享影片或短片。
           url: https://www.youtube.com/
+          - name: Gmail
+          description: Gmail是 Google 的免费网络邮件服务。
+          url: https://mail.google.com/
+          - name: 抖音
+          description: 抖音，是由字节跳动孵化的一款音乐创意短视频社交软件。
+          url: https://www.douyin.com/
+          - name: 斗鱼
+          description: 斗鱼TV以游戏直播为主，涵盖了娱乐、综艺、体育、户外等多种直播内容。
+          url: https://www.douyu.com/
+          - name: 虎牙
+          description: 虎牙直播是中国领先的游戏直播平台之一，覆盖超过3300款游戏，并已逐步涵盖娱乐、综艺、教育、户外、体育等多元化的弹幕式互动直播内容。
+          url: https://www.huya.com/
     - name: 常用推荐
       sites:
         - name: github
